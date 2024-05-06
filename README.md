@@ -6,7 +6,7 @@ I'm Anna, and this is my coding world! 💡 Here you'll find me when I'm not ana
 #### Some facts about me:
 - I've been playing chess for over 10 years ♟️
 - I've debugged code while sleepwalking (true story!) 😴💻
-- I once wrote a Python script to automatically feed my pet cat 🙀
+- Once I wrote a Python script to automatically feed my pet cat 🙀
 
 #### My skills:
 
