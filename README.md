@@ -1,17 +1,14 @@
 ### Hey-hey! 🚀 
-I'm Anna, and this is my coding world! 💡 Here you'll find me when I'm not analyzing data, building web applications, or exploring artificial intelligence.🤖
-
+I'm Anna — a backend developer with a strong Python background and a growing passion for frontend technologies. Over the past year, I've been building scalable web applications, integrating third-party APIs, and diving deeper into full stack development.
 ----
 
-#### Some facts about me:
-- I've been playing chess for over 10 years ♟️
-- I've debugged code while sleepwalking (true story!) 😴💻
-- Once I wrote a Python script to automatically feed my pet cat 🙀
+#### What I do:
+* Backend Development: Python is my go-to — from writing clean business logic to automating workflows and building RESTful APIs (FastAPI / Django).
+* Frontend Experience: I'm hands-on with React, creating responsive user interfaces and learning best practices for building maintainable components.
+* Data & Automation: Whether it's data transformation with Pandas or setting up smart automation pipelines, I enjoy solving problems that save time and bring clarity.
 
-#### My skills:
+#### 📌 Fun fact: 
+* I once wrote a Python script to feed my cat. It worked... until she hacked it for extra meals.
 
-- `**Python Lover** `🐍: From data analysis with Pandas to crafting automation scripts and building web applications, Python is my language of choice.
-- `**Web Development Wizard**` 🌐: Crafting interactive and dynamic web applications with Django, and seamlessly integrating RESTful APIs for efficient data communication and interaction.
-- `**Data Science Ninja**` 📊: I'm a data explorer, using Numpy to uncover insights and Matplotlib and Seaborn to bring them to life with beautiful visualizations. 📈✨
 
-...and this is just the beginning! Feel free to join me on this exciting coding journey! 🔥
+Let’s connect and build cool things together! 💻✨
